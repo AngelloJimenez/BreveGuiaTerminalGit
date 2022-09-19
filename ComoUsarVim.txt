@@ -1,0 +1,12 @@
+Vim es un editor de codigo de consola
+Para manejarlo necesitamos saber que hay dos modos
+El modo comandos y el modo escritura
+
+Iniciamos en modo comandos
+Para movernos al modo escritura precionamos la letra "a"
+Para salir del modo escritura precionamos la tecla "Esc"
+
+Para guardar y salir
+en modo comando precionamos "shitft+z+z"
+Tambien podemos
+en modo comando escribir ":q"
